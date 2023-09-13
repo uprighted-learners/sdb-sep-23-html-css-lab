@@ -1,0 +1,45 @@
+body {
+    font-family: Raleway;
+}
+
+header {
+    background-color: #bebebe;
+    text-align: center;
+    padding: 2em;
+    margin-right: 75px;
+    margin-left: 75px;
+}
+
+nav {
+    background-color: #bebebe;
+    margin-top: 1em;
+    padding: 0.5em;
+    text-align: center;
+    margin-bottom: 2em;
+}
+
+.nav-links {
+    margin-right: 75px;
+    margin-left: 75px;
+}
+
+#ironman {
+    width: 543px;
+    height: 50%;
+}
+
+main {
+    border: 2px solid black;
+    text-align: center;
+    padding: 1em;
+}
+
+.wrapper {
+    width: 50%;
+    margin-left: 25%;
+}
+
+main > p {
+    width: 50%;
+    
+}
